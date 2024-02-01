@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20240118T084147Z
+UID:9c320930-5157-4221-b078-360db9cbfc26
+DTSTART:20240119T113000Z
+DTEND:20240119T121500Z
+DESCRIPTION:You are invited for discussion regarding your job application -
+  App Innovation - Fullstack Consultant\, Ms Teams url - https://neudesic.f
+ reshteam.com/assessments/Pu-2RFoHECwg
+ORGANIZER;ROLE=NON-PARTICIPANT;CN=Nirmala Allapur:mailto:resume.india@neude
+ sic.com
+SUMMARY:App Innovation - Fullstack Consultant Interview - Ms Teams Intervie
+ w
+ATTENDEE;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;ROLE=REQ-PARTICIPANT;CN=Paturu G s
+ udha:mailto:sudha.paturu07@gmail.com
+END:VEVENT
+END:VCALENDAR
